@@ -1,0 +1,9 @@
+E:\Sean\Documents\GitHub\C_Sharp-Sorting\C_Sharp-Sorting\bin\Debug\C_Sharp-Sorting.exe.config
+E:\Sean\Documents\GitHub\C_Sharp-Sorting\C_Sharp-Sorting\bin\Debug\C_Sharp-Sorting.exe
+E:\Sean\Documents\GitHub\C_Sharp-Sorting\C_Sharp-Sorting\bin\Debug\C_Sharp-Sorting.pdb
+E:\Sean\Documents\GitHub\C_Sharp-Sorting\C_Sharp-Sorting\obj\Debug\C_Sharp-Sorting.csprojResolveAssemblyReference.cache
+E:\Sean\Documents\GitHub\C_Sharp-Sorting\C_Sharp-Sorting\obj\Debug\C_Sharp_Sorting.Properties.Resources.resources
+E:\Sean\Documents\GitHub\C_Sharp-Sorting\C_Sharp-Sorting\obj\Debug\C_Sharp-Sorting.csproj.GenerateResource.Cache
+E:\Sean\Documents\GitHub\C_Sharp-Sorting\C_Sharp-Sorting\obj\Debug\C_Sharp-Sorting.exe
+E:\Sean\Documents\GitHub\C_Sharp-Sorting\C_Sharp-Sorting\obj\Debug\C_Sharp-Sorting.pdb
+E:\Sean\Documents\GitHub\C_Sharp-Sorting\C_Sharp-Sorting\obj\Debug\C_Sharp_Sorting.frmMain.resources
