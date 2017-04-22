@@ -15,8 +15,6 @@ namespace C_Sharp_Sorting
         public frmMain()
         {
             InitializeComponent();
-
-
         }
 
         private void btnInput_Click(object sender, EventArgs e)
