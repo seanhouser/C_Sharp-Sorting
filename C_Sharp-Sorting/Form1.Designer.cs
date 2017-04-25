@@ -31,6 +31,8 @@
             this.txtInput = new System.Windows.Forms.TextBox();
             this.lblInput = new System.Windows.Forms.Label();
             this.btnInput = new System.Windows.Forms.Button();
+            this.btnMerge = new System.Windows.Forms.Button();
+            this.rtbPresort = new System.Windows.Forms.RichTextBox();
             this.SuspendLayout();
             // 
             // txtInput
@@ -60,11 +62,31 @@
             this.btnInput.UseVisualStyleBackColor = true;
             this.btnInput.Click += new System.EventHandler(this.btnInput_Click);
             // 
+            // btnMerge
+            // 
+            this.btnMerge.Location = new System.Drawing.Point(12, 87);
+            this.btnMerge.Name = "btnMerge";
+            this.btnMerge.Size = new System.Drawing.Size(75, 23);
+            this.btnMerge.TabIndex = 3;
+            this.btnMerge.Text = "MergeSort";
+            this.btnMerge.UseVisualStyleBackColor = true;
+            this.btnMerge.Click += new System.EventHandler(this.btnMerge_Click);
+            // 
+            // rtbPresort
+            // 
+            this.rtbPresort.Location = new System.Drawing.Point(12, 335);
+            this.rtbPresort.Name = "rtbPresort";
+            this.rtbPresort.Size = new System.Drawing.Size(451, 20);
+            this.rtbPresort.TabIndex = 4;
+            this.rtbPresort.Text = "";
+            // 
             // frmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(556, 401);
+            this.Controls.Add(this.rtbPresort);
+            this.Controls.Add(this.btnMerge);
             this.Controls.Add(this.btnInput);
             this.Controls.Add(this.lblInput);
             this.Controls.Add(this.txtInput);
@@ -80,6 +102,8 @@
         private System.Windows.Forms.TextBox txtInput;
         private System.Windows.Forms.Label lblInput;
         private System.Windows.Forms.Button btnInput;
+        private System.Windows.Forms.Button btnMerge;
+        private System.Windows.Forms.RichTextBox rtbPresort;
     }
 }
 
